@@ -11,11 +11,12 @@ class FitnessDIYMeasure():
     functions: 
     
     """
-    def __init__(self, observed, estimated):
+    def __init__(self, observed, estimated, n_num):
         
         # Initialize any necessary variables or attributes here
         self.observed = observed
         self.estimated = estimated
+        self.n_num = n_num
 
     # R squared:
     def calc_rsquared(self):
@@ -27,7 +28,7 @@ class FitnessDIYMeasure():
         """
             
         r, p = scipy.stats.pearsonr(self.observed, self.estimated)
-        R2 = r **2  
+        R2 = round(r **2 , self.n_num)
         return R2
 
     # Mean Squared Error:
@@ -41,7 +42,7 @@ class FitnessDIYMeasure():
         """
             
         res = (self.observed -self.estimated)**2
-        MSE = round(res.mean(), 3)
+        MSE = round(res.mean(), self.n_num)
             
         return MSE
 
@@ -56,7 +57,7 @@ class FitnessDIYMeasure():
         """
             
         res = (self.observed -self.estimated)**2
-        RMSE = round(sqrt(res.mean()), 3)
+        RMSE = round(sqrt(res.mean()), self.n_num)
             
         return RMSE
     
@@ -71,7 +72,7 @@ class FitnessDIYMeasure():
         """
             
         res = abs(self.observed -self.estimated)
-        mae = round(res.mean(), 3)
+        mae = round(res.mean(), self.n_num)
             
         return mae
     
@@ -95,7 +96,7 @@ class FitnessDIYMeasure():
         squared_log_errors = (log_observed - log_estimated) ** 2
         
         # Compute the mean of these squared log differences
-        msle = np.mean(squared_log_errors)
+        msle = round(np.mean(squared_log_errors), self.n_num)
         
         return msle
 
@@ -114,7 +115,7 @@ class FitnessDIYMeasure():
         absolute_percentage_errors = np.abs((self.observed - self.estimated) / self.observed)
         
         # Compute the mean of these absolute percentage errors
-        mape = np.mean(absolute_percentage_errors)
+        mape = round(np.mean(absolute_percentage_errors), self.n_num)
         
         return mape
   
