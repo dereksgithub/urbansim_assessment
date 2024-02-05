@@ -1,1 +1,1 @@
-# diy_func/__init__.py
+# graph_analysis/__init__.py

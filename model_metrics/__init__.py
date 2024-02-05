@@ -1,1 +1,1 @@
-# diy_func/__init__.py
+# model_metrics/__init__.py
