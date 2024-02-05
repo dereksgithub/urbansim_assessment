@@ -43,3 +43,17 @@ class FitnessDIYMeasure():
         RMSE = round(sqrt(res.mean()), 3)
             
         return RMSE
+   # Root Mean Square Error:
+    def calc_mae(self):
+        """
+        Calculate Root Mean Square Error between a series of observed and estimated values
+        
+        inputs:
+        Observed: Series of actual observed values
+        estimated: Series of predicted values
+        """
+            
+        res = abs(self.observed -self.estimated)
+        mae = round(res.mean(), 3)
+            
+        return mae
