@@ -1,0 +1,401 @@
+,coef,std err,z,P>|z|,[0.025,0.975]
+station_destination[Abbey Road],    0.9988,    0.054,   18.574, 0.000,    0.893,    1.104
+station_destination[Acton Central],    0.9398,    0.036,   25.763, 0.000,    0.868,    1.011
+station_destination[Acton Town],   -0.5242,    0.021,  -24.590, 0.000,   -0.566,   -0.482
+station_destination[Aldgate],   -1.0763,    0.012,  -92.913, 0.000,   -1.099,   -1.054
+station_destination[Aldgate East],   -1.1399,    0.011,  -99.322, 0.000,   -1.162,   -1.117
+station_destination[All Saints],    0.6638,    0.047,   14.006, 0.000,    0.571,    0.757
+station_destination[Alperton],    0.2104,    0.037,    5.732, 0.000,    0.138,    0.282
+station_destination[Amersham],    1.1878,    0.063,   19.003, 0.000,    1.065,    1.310
+station_destination[Anerley],    2.0359,    0.076,   26.797, 0.000,    1.887,    2.185
+station_destination[Angel],   -1.1875,    0.011, -104.558, 0.000,   -1.210,   -1.165
+station_destination[Archway],   -0.5369,    0.021,  -25.138, 0.000,   -0.579,   -0.495
+station_destination[Arnos Grove],    0.1306,    0.037,    3.574, 0.000,    0.059,    0.202
+station_destination[Arsenal],   -0.0828,    0.056,   -1.471, 0.141,   -0.193,    0.028
+station_destination[Baker Street],   -1.4351,    0.009, -163.888, 0.000,   -1.452,   -1.418
+station_destination[Balham],   -0.5230,    0.016,  -32.190, 0.000,   -0.555,   -0.491
+station_destination[Bank and Monument],   -2.0023,    0.006, -328.281, 0.000,   -2.014,   -1.990
+station_destination[Barbican],   -1.2504,    0.011, -116.028, 0.000,   -1.272,   -1.229
+station_destination[Barking],   -0.7363,    0.012,  -60.917, 0.000,   -0.760,   -0.713
+station_destination[Barkingside],    0.6636,    0.062,   10.746, 0.000,    0.543,    0.785
+station_destination[Barons Court],   -0.7993,    0.018,  -43.371, 0.000,   -0.835,   -0.763
+station_destination[Bayswater],   -0.1975,    0.040,   -4.902, 0.000,   -0.276,   -0.119
+station_destination[Beckton],    1.1995,    0.048,   25.243, 0.000,    1.106,    1.293
+station_destination[Beckton Park],    1.6655,    0.107,   15.634, 0.000,    1.457,    1.874
+station_destination[Becontree],    0.3796,    0.047,    8.109, 0.000,    0.288,    0.471
+station_destination[Belsize Park],   -0.4738,    0.021,  -22.488, 0.000,   -0.515,   -0.432
+station_destination[Bermondsey],   -0.7740,    0.018,  -43.498, 0.000,   -0.809,   -0.739
+station_destination[Bethnal Green],   -1.0117,    0.015,  -68.620, 0.000,   -1.041,   -0.983
+station_destination[Blackfriars],   -1.3042,    0.010, -130.438, 0.000,   -1.324,   -1.285
+station_destination[Blackhorse Road],   -0.5131,    0.018,  -27.851, 0.000,   -0.549,   -0.477
+station_destination[Blackwall],    0.4771,    0.039,   12.319, 0.000,    0.401,    0.553
+station_destination[Bond Street],   -1.5611,    0.008, -201.163, 0.000,   -1.576,   -1.546
+station_destination[Borough],   -0.8841,    0.018,  -50.274, 0.000,   -0.919,   -0.850
+station_destination[Boston Manor],    0.0403,    0.033,    1.204, 0.228,   -0.025,    0.106
+station_destination[Bounds Green],    0.0010,    0.036,    0.029, 0.977,   -0.069,    0.071
+station_destination[Bow Church],    0.6913,    0.033,   21.048, 0.000,    0.627,    0.756
+station_destination[Bow Road],   -0.3972,    0.029,  -13.731, 0.000,   -0.454,   -0.341
+station_destination[Brent Cross],    0.3723,    0.047,    7.903, 0.000,    0.280,    0.465
+station_destination[Brentwood],    2.5892,    0.037,   70.587, 0.000,    2.517,    2.661
+station_destination[Brixton],   -0.7970,    0.014,  -56.448, 0.000,   -0.825,   -0.769
+station_destination[Brockley],    1.1672,    0.046,   25.277, 0.000,    1.077,    1.258
+station_destination[Bromley-by-Bow],   -0.4279,    0.025,  -17.193, 0.000,   -0.477,   -0.379
+station_destination[Brondesbury],    0.6832,    0.037,   18.251, 0.000,    0.610,    0.757
+station_destination[Brondesbury Park],    0.7224,    0.033,   21.636, 0.000,    0.657,    0.788
+station_destination[Bruce Grove],    1.5161,    0.053,   28.393, 0.000,    1.411,    1.621
+station_destination[Buckhurst Hill],    0.7580,    0.066,   11.450, 0.000,    0.628,    0.888
+station_destination[Burnt Oak],    0.3976,    0.039,   10.134, 0.000,    0.321,    0.474
+station_destination[Bush Hill Park],    1.8747,    0.075,   24.887, 0.000,    1.727,    2.022
+station_destination[Bushey],    1.6906,    0.047,   36.133, 0.000,    1.599,    1.782
+station_destination[Caledonian Road],   -0.6859,    0.024,  -29.133, 0.000,   -0.732,   -0.640
+station_destination[Caledonian Road & Barnsbury],    0.5307,    0.024,   21.681, 0.000,    0.483,    0.579
+station_destination[Cambridge Heath],    1.3077,    0.047,   28.020, 0.000,    1.216,    1.399
+station_destination[Camden Road],    0.1126,    0.016,    6.897, 0.000,    0.081,    0.145
+station_destination[Camden Town],   -1.1085,    0.013,  -87.075, 0.000,   -1.133,   -1.084
+station_destination[Canada Water],   -1.4637,    0.008, -189.348, 0.000,   -1.479,   -1.449
+station_destination[Canary Wharf],   -1.7784,    0.006, -290.460, 0.000,   -1.790,   -1.766
+station_destination[Canning Town],   -1.3575,    0.009, -158.122, 0.000,   -1.374,   -1.341
+station_destination[Cannon Street],   -1.0856,    0.015,  -73.713, 0.000,   -1.114,   -1.057
+station_destination[Canonbury],    0.6391,    0.034,   18.609, 0.000,    0.572,    0.706
+station_destination[Canons Park],    0.4473,    0.044,   10.263, 0.000,    0.362,    0.533
+station_destination[Carpenders Park],    1.6872,    0.054,   31.133, 0.000,    1.581,    1.793
+station_destination[Chadwell Heath],    2.0924,    0.042,   49.619, 0.000,    2.010,    2.175
+station_destination[Chalfont & Latimer],    1.1774,    0.042,   27.712, 0.000,    1.094,    1.261
+station_destination[Chalk Farm],   -0.4544,    0.027,  -16.578, 0.000,   -0.508,   -0.401
+station_destination[Chancery Lane],   -1.4075,    0.009, -162.507, 0.000,   -1.424,   -1.390
+station_destination[Charing Cross],   -1.3498,    0.012, -110.629, 0.000,   -1.374,   -1.326
+station_destination[Chesham],    1.4997,    0.064,   23.375, 0.000,    1.374,    1.625
+station_destination[Cheshunt],    2.3109,    0.093,   24.900, 0.000,    2.129,    2.493
+station_destination[Chigwell],    1.2690,    0.082,   15.446, 0.000,    1.108,    1.430
+station_destination[Chingford],    2.0564,    0.065,   31.673, 0.000,    1.929,    2.184
+station_destination[Chiswick Park],   -0.3360,    0.026,  -13.094, 0.000,   -0.386,   -0.286
+station_destination[Chorleywood],    1.1202,    0.038,   29.683, 0.000,    1.046,    1.194
+station_destination[Clapham Common],   -0.5479,    0.022,  -24.626, 0.000,   -0.592,   -0.504
+station_destination[Clapham High Street],    1.2560,    0.028,   45.256, 0.000,    1.202,    1.310
+station_destination[Clapham Junction],    0.5348,    0.014,   37.465, 0.000,    0.507,    0.563
+station_destination[Clapham North],   -0.4116,    0.028,  -14.493, 0.000,   -0.467,   -0.356
+station_destination[Clapham South],   -0.3547,    0.026,  -13.804, 0.000,   -0.405,   -0.304
+station_destination[Clapton],    1.6402,    0.048,   33.926, 0.000,    1.545,    1.735
+station_destination[Cockfosters],    0.8023,    0.062,   12.990, 0.000,    0.681,    0.923
+station_destination[Colindale],   -0.0887,    0.022,   -4.047, 0.000,   -0.132,   -0.046
+station_destination[Colliers Wood],    0.0519,    0.034,    1.527, 0.127,   -0.015,    0.118
+station_destination[Covent Garden],   -1.2098,    0.015,  -79.216, 0.000,   -1.240,   -1.180
+station_destination[Crossharbour],    0.3890,    0.029,   13.530, 0.000,    0.333,    0.445
+station_destination[Crouch Hill],    1.3202,    0.050,   26.561, 0.000,    1.223,    1.418
+station_destination[Croxley],    1.0766,    0.054,   19.856, 0.000,    0.970,    1.183
+station_destination[Crystal Palace],    1.8849,    0.045,   42.139, 0.000,    1.797,    1.973
+station_destination[Custom House],    0.5185,    0.034,   15.089, 0.000,    0.451,    0.586
+station_destination[Cutty Sark],    0.4686,    0.024,   19.587, 0.000,    0.422,    0.515
+station_destination[Cyprus],    0.7896,    0.034,   23.048, 0.000,    0.722,    0.857
+station_destination[Dagenham East],    0.4202,    0.039,   10.708, 0.000,    0.343,    0.497
+station_destination[Dagenham Heathway],    0.1154,    0.030,    3.841, 0.000,    0.057,    0.174
+station_destination[Dalston Junction],    0.7594,    0.028,   27.288, 0.000,    0.705,    0.814
+station_destination[Dalston Kingsland],    0.5919,    0.022,   27.060, 0.000,    0.549,    0.635
+station_destination[Debden],    0.4813,    0.034,   14.158, 0.000,    0.415,    0.548
+station_destination[Denmark Hill],    0.8229,    0.020,   42.012, 0.000,    0.785,    0.861
+station_destination[Deptford Bridge],    0.8452,    0.034,   24.528, 0.000,    0.778,    0.913
+station_destination[Devons Road],    0.6832,    0.040,   16.910, 0.000,    0.604,    0.762
+station_destination[Dollis Hill],   -0.1023,    0.034,   -2.978, 0.003,   -0.170,   -0.035
+station_destination[Ealing Broadway],   -0.6251,    0.014,  -43.269, 0.000,   -0.653,   -0.597
+station_destination[Ealing Common],   -0.1600,    0.033,   -4.844, 0.000,   -0.225,   -0.095
+station_destination[Earl's Court],   -1.1490,    0.012,  -91.964, 0.000,   -1.173,   -1.125
+station_destination[East Acton],   -0.2949,    0.026,  -11.447, 0.000,   -0.345,   -0.244
+station_destination[East Finchley],   -0.1488,    0.028,   -5.270, 0.000,   -0.204,   -0.093
+station_destination[East Ham],   -0.3434,    0.022,  -15.588, 0.000,   -0.387,   -0.300
+station_destination[East India],    0.2172,    0.026,    8.475, 0.000,    0.167,    0.267
+station_destination[East Putney],   -0.4295,    0.023,  -18.609, 0.000,   -0.475,   -0.384
+station_destination[Eastcote],    0.4271,    0.052,    8.153, 0.000,    0.324,    0.530
+station_destination[Edgware],    0.3994,    0.036,   11.102, 0.000,    0.329,    0.470
+station_destination[Edgware Road],   -1.1779,    0.012,  -95.954, 0.000,   -1.202,   -1.154
+station_destination[Edmonton Green],    0.9758,    0.036,   27.331, 0.000,    0.906,    1.046
+station_destination[Elephant & Castle],   -1.1464,    0.013,  -90.550, 0.000,   -1.171,   -1.122
+station_destination[Elm Park],    0.7639,    0.061,   12.533, 0.000,    0.644,    0.883
+station_destination[Elverson Road],    1.3829,    0.066,   20.811, 0.000,    1.253,    1.513
+station_destination[Embankment],   -1.4367,    0.010, -139.388, 0.000,   -1.457,   -1.417
+station_destination[Emerson Park],    4.1286,    0.154,   26.768, 0.000,    3.826,    4.431
+station_destination[Enfield Town],    1.4341,    0.037,   39.281, 0.000,    1.363,    1.506
+station_destination[Epping],    0.7956,    0.045,   17.754, 0.000,    0.708,    0.883
+station_destination[Euston],   -1.4558,    0.008, -173.395, 0.000,   -1.472,   -1.439
+station_destination[Euston Square],   -0.9950,    0.011,  -87.418, 0.000,   -1.017,   -0.973
+station_destination[Fairlop],    0.8324,    0.074,   11.235, 0.000,    0.687,    0.978
+station_destination[Farringdon],   -1.4882,    0.007, -206.229, 0.000,   -1.502,   -1.474
+station_destination[Finchley Central],   -0.1609,    0.023,   -7.053, 0.000,   -0.206,   -0.116
+station_destination[Finchley Road],   -0.7415,    0.017,  -43.220, 0.000,   -0.775,   -0.708
+station_destination[Finchley Road & Frognal],    0.4840,    0.026,   18.938, 0.000,    0.434,    0.534
+station_destination[Finsbury Park],   -0.9568,    0.012,  -77.642, 0.000,   -0.981,   -0.933
+station_destination[Forest Gate],    1.9419,    0.035,   55.541, 0.000,    1.873,    2.010
+station_destination[Forest Hill],    1.2071,    0.041,   29.798, 0.000,    1.128,    1.287
+station_destination[Fulham Broadway],   -0.9020,    0.016,  -58.156, 0.000,   -0.932,   -0.872
+station_destination[Gallions Reach],    1.0751,    0.042,   25.405, 0.000,    0.992,    1.158
+station_destination[Gants Hill],    0.1466,    0.041,    3.594, 0.000,    0.067,    0.226
+station_destination[Gidea Park],    2.4176,    0.058,   41.844, 0.000,    2.304,    2.531
+station_destination[Gloucester Road],   -1.0948,    0.014,  -78.161, 0.000,   -1.122,   -1.067
+station_destination[Golders Green],   -0.2071,    0.023,   -8.957, 0.000,   -0.252,   -0.162
+station_destination[Goldhawk Road],    0.0356,    0.052,    0.685, 0.493,   -0.066,    0.137
+station_destination[Goodge Street],   -1.1452,    0.013,  -90.443, 0.000,   -1.170,   -1.120
+station_destination[Goodmayes],    1.9157,    0.038,   50.129, 0.000,    1.841,    1.991
+station_destination[Gospel Oak],    0.2948,    0.022,   13.265, 0.000,    0.251,    0.338
+station_destination[Grange Hill],    1.2691,    0.115,   11.068, 0.000,    1.044,    1.494
+station_destination[Great Portland Street],   -1.0574,    0.012,  -86.520, 0.000,   -1.081,   -1.033
+station_destination[Green Park],   -1.6334,    0.007, -226.600, 0.000,   -1.647,   -1.619
+station_destination[Greenford],    0.1163,    0.029,    3.959, 0.000,    0.059,    0.174
+station_destination[Greenwich],    0.6680,    0.029,   23.055, 0.000,    0.611,    0.725
+station_destination[Gunnersbury],   -0.8130,    0.015,  -55.848, 0.000,   -0.842,   -0.784
+station_destination[Hackney Central],    0.5241,    0.020,   25.867, 0.000,    0.484,    0.564
+station_destination[Hackney Downs],    1.1623,    0.035,   33.608, 0.000,    1.095,    1.230
+station_destination[Hackney Wick],    0.6744,    0.028,   23.984, 0.000,    0.619,    0.729
+station_destination[Haggerston],    0.6621,    0.029,   22.803, 0.000,    0.605,    0.719
+station_destination[Hainault],    0.4553,    0.053,    8.594, 0.000,    0.351,    0.559
+station_destination[Hammersmith],   -1.2885,    0.008, -160.085, 0.000,   -1.304,   -1.273
+station_destination[Hampstead],   -0.3384,    0.022,  -15.170, 0.000,   -0.382,   -0.295
+station_destination[Hampstead Heath],    0.1979,    0.019,   10.440, 0.000,    0.161,    0.235
+station_destination[Hanger Lane],    0.0383,    0.026,    1.481, 0.139,   -0.012,    0.089
+station_destination[Harlesden],   -0.3231,    0.024,  -13.199, 0.000,   -0.371,   -0.275
+station_destination[Harold Wood],    2.4301,    0.043,   56.001, 0.000,    2.345,    2.515
+station_destination[Harringay Green Lanes],    1.2822,    0.043,   29.935, 0.000,    1.198,    1.366
+station_destination[Harrow & Wealdstone],    0.0896,    0.027,    3.274, 0.001,    0.036,    0.143
+station_destination[Harrow-on-the-Hill],   -0.3890,    0.018,  -21.340, 0.000,   -0.425,   -0.353
+station_destination[Hatch End],    2.0047,    0.104,   19.343, 0.000,    1.802,    2.208
+station_destination[Hatton Cross],    0.2370,    0.029,    8.275, 0.000,    0.181,    0.293
+station_destination[Headstone Lane],    1.7889,    0.057,   31.521, 0.000,    1.678,    1.900
+station_destination[Heathrow Terminal 4],    0.4902,    0.038,   12.908, 0.000,    0.416,    0.565
+station_destination[Heathrow Terminal 5],    0.4279,    0.032,   13.360, 0.000,    0.365,    0.491
+station_destination[Heathrow Terminals 2 & 3],    0.0361,    0.020,    1.768, 0.077,   -0.004,    0.076
+station_destination[Hendon Central],   -0.1226,    0.023,   -5.314, 0.000,   -0.168,   -0.077
+station_destination[Heron Quays],   -0.0321,    0.013,   -2.422, 0.015,   -0.058,   -0.006
+station_destination[High Barnet],    0.3113,    0.032,    9.610, 0.000,    0.248,    0.375
+station_destination[High Street Kensington],   -1.0827,    0.014,  -78.963, 0.000,   -1.110,   -1.056
+station_destination[Highams Park],    1.4707,    0.051,   29.063, 0.000,    1.371,    1.570
+station_destination[Highbury & Islington],   -1.5648,    0.007, -218.332, 0.000,   -1.579,   -1.551
+station_destination[Highgate],   -0.1346,    0.034,   -3.941, 0.000,   -0.202,   -0.068
+station_destination[Hillingdon],    0.7299,    0.056,   13.021, 0.000,    0.620,    0.840
+station_destination[Holborn],   -1.5963,    0.008, -209.393, 0.000,   -1.611,   -1.581
+station_destination[Holland Park],   -0.6148,    0.022,  -27.921, 0.000,   -0.658,   -0.572
+station_destination[Holloway Road],   -0.6728,    0.024,  -27.720, 0.000,   -0.720,   -0.625
+station_destination[Homerton],    0.4920,    0.022,   21.992, 0.000,    0.448,    0.536
+station_destination[Honor Oak Park],    1.3932,    0.054,   25.750, 0.000,    1.287,    1.499
+station_destination[Hornchurch],    0.7898,    0.047,   16.780, 0.000,    0.698,    0.882
+station_destination[Hounslow Central],    0.1303,    0.038,    3.469, 0.001,    0.057,    0.204
+station_destination[Hounslow East],    0.0375,    0.034,    1.090, 0.276,   -0.030,    0.105
+station_destination[Hounslow West],    0.4051,    0.050,    8.114, 0.000,    0.307,    0.503
+station_destination[Hoxton],    0.5201,    0.021,   24.276, 0.000,    0.478,    0.562
+station_destination[Hyde Park Corner],   -0.9439,    0.020,  -46.293, 0.000,   -0.984,   -0.904
+station_destination[Ickenham],    0.8719,    0.060,   14.650, 0.000,    0.755,    0.989
+station_destination[Ilford],    1.8007,    0.025,   73.494, 0.000,    1.753,    1.849
+station_destination[Imperial Wharf],    0.7399,    0.022,   33.491, 0.000,    0.697,    0.783
+station_destination[Island Gardens],    0.7195,    0.038,   18.937, 0.000,    0.645,    0.794
+station_destination[Kennington],   -0.6154,    0.029,  -20.987, 0.000,   -0.673,   -0.558
+station_destination[Kensal Green],    0.0769,    0.046,    1.672, 0.095,   -0.013,    0.167
+station_destination[Kensal Rise],    0.4707,    0.027,   17.474, 0.000,    0.418,    0.524
+station_destination[Kensington],   -0.2708,    0.021,  -12.844, 0.000,   -0.312,   -0.229
+station_destination[Kentish Town],   -0.7848,    0.017,  -45.658, 0.000,   -0.819,   -0.751
+station_destination[Kentish Town West],    0.4705,    0.030,   15.817, 0.000,    0.412,    0.529
+station_destination[Kenton],    0.5632,    0.036,   15.619, 0.000,    0.493,    0.634
+station_destination[Kew Gardens],   -0.2492,    0.036,   -7.019, 0.000,   -0.319,   -0.180
+station_destination[Kilburn],   -0.4601,    0.023,  -20.335, 0.000,   -0.504,   -0.416
+station_destination[Kilburn High Road],    1.7041,    0.061,   27.819, 0.000,    1.584,    1.824
+station_destination[Kilburn Park],   -0.1601,    0.035,   -4.598, 0.000,   -0.228,   -0.092
+station_destination[King George V],    1.1501,    0.035,   32.567, 0.000,    1.081,    1.219
+station_destination[King's Cross St. Pancras],   -1.6448,    0.007, -242.898, 0.000,   -1.658,   -1.632
+station_destination[Kingsbury],    0.0956,    0.031,    3.052, 0.002,    0.034,    0.157
+station_destination[Knightsbridge],   -1.1844,    0.012,  -96.207, 0.000,   -1.209,   -1.160
+station_destination[Ladbroke Grove],   -0.6637,    0.022,  -30.632, 0.000,   -0.706,   -0.621
+station_destination[Lambeth North],   -0.7714,    0.028,  -28.040, 0.000,   -0.825,   -0.718
+station_destination[Lancaster Gate],   -0.6096,    0.023,  -26.014, 0.000,   -0.656,   -0.564
+station_destination[Langdon Park],    0.2890,    0.022,   12.872, 0.000,    0.245,    0.333
+station_destination[Latimer Road],   -0.4053,    0.030,  -13.509, 0.000,   -0.464,   -0.346
+station_destination[Leicester Square],   -1.4335,    0.011, -130.379, 0.000,   -1.455,   -1.412
+station_destination[Lewisham],    0.6775,    0.020,   33.148, 0.000,    0.637,    0.718
+station_destination[Leyton],   -0.2955,    0.026,  -11.244, 0.000,   -0.347,   -0.244
+station_destination[Leyton Midland Road],    1.4228,    0.047,   30.041, 0.000,    1.330,    1.516
+station_destination[Leytonstone],   -0.2907,    0.023,  -12.483, 0.000,   -0.336,   -0.245
+station_destination[Leytonstone High Road],    1.6537,    0.056,   29.329, 0.000,    1.543,    1.764
+station_destination[Limehouse],    0.2541,    0.019,   13.704, 0.000,    0.218,    0.290
+station_destination[Liverpool Street],   -1.8553,    0.006, -303.881, 0.000,   -1.867,   -1.843
+station_destination[London Bridge],   -1.5708,    0.007, -226.141, 0.000,   -1.584,   -1.557
+station_destination[London City Airport],    0.6977,    0.023,   30.731, 0.000,    0.653,    0.742
+station_destination[London Fields],    1.1934,    0.036,   33.585, 0.000,    1.124,    1.263
+station_destination[Loughton],    0.4621,    0.039,   11.831, 0.000,    0.386,    0.539
+station_destination[Maida Vale],   -0.3626,    0.032,  -11.180, 0.000,   -0.426,   -0.299
+station_destination[Manor House],   -0.4133,    0.028,  -14.974, 0.000,   -0.467,   -0.359
+station_destination[Manor Park],    2.1117,    0.048,   44.145, 0.000,    2.018,    2.205
+station_destination[Mansion House],   -1.1248,    0.012,  -96.966, 0.000,   -1.148,   -1.102
+station_destination[Marble Arch],   -1.1551,    0.013,  -89.285, 0.000,   -1.180,   -1.130
+station_destination[Maryland],    2.1403,    0.053,   40.088, 0.000,    2.036,    2.245
+station_destination[Marylebone],   -1.0633,    0.015,  -68.873, 0.000,   -1.094,   -1.033
+station_destination[Mile End],   -0.8165,    0.016,  -49.884, 0.000,   -0.849,   -0.784
+station_destination[Mill Hill East],    0.4798,    0.038,   12.527, 0.000,    0.405,    0.555
+station_destination[Moor Park],    0.9423,    0.043,   22.109, 0.000,    0.859,    1.026
+station_destination[Moorgate],   -1.5327,    0.007, -207.666, 0.000,   -1.547,   -1.518
+station_destination[Morden],    0.0104,    0.026,    0.395, 0.693,   -0.041,    0.062
+station_destination[Mornington Crescent],   -0.8341,    0.019,  -45.028, 0.000,   -0.870,   -0.798
+station_destination[Mudchute],    0.8989,    0.057,   15.641, 0.000,    0.786,    1.012
+station_destination[Neasden],   -0.0107,    0.037,   -0.291, 0.771,   -0.083,    0.062
+station_destination[New Cross],    1.4539,    0.031,   46.637, 0.000,    1.393,    1.515
+station_destination[New Cross Gate],    0.8384,    0.027,   30.713, 0.000,    0.785,    0.892
+station_destination[Newbury Park],    0.2738,    0.042,    6.477, 0.000,    0.191,    0.357
+station_destination[North Acton],   -0.4571,    0.018,  -25.679, 0.000,   -0.492,   -0.422
+station_destination[North Ealing],    0.5475,    0.055,    9.984, 0.000,    0.440,    0.655
+station_destination[North Greenwich],   -0.7442,    0.013,  -58.374, 0.000,   -0.769,   -0.719
+station_destination[North Harrow],    0.7399,    0.073,   10.203, 0.000,    0.598,    0.882
+station_destination[North Wembley],    0.4148,    0.052,    7.930, 0.000,    0.312,    0.517
+station_destination[Northfields],   -0.0472,    0.034,   -1.388, 0.165,   -0.114,    0.019
+station_destination[Northolt],    0.3408,    0.039,    8.778, 0.000,    0.265,    0.417
+station_destination[Northwick Park],   -0.1656,    0.024,   -6.854, 0.000,   -0.213,   -0.118
+station_destination[Northwood],    0.3771,    0.031,   12.036, 0.000,    0.316,    0.439
+station_destination[Northwood Hills],    0.5690,    0.045,   12.576, 0.000,    0.480,    0.658
+station_destination[Norwood Junction],    1.7453,    0.050,   35.197, 0.000,    1.648,    1.842
+station_destination[Notting Hill Gate],   -1.0977,    0.014,  -80.449, 0.000,   -1.124,   -1.071
+station_destination[Oakwood],    0.5233,    0.049,   10.766, 0.000,    0.428,    0.619
+station_destination[Old Street],   -1.3415,    0.009, -157.676, 0.000,   -1.358,   -1.325
+station_destination[Osterley],    0.2701,    0.044,    6.170, 0.000,    0.184,    0.356
+station_destination[Oval],   -0.7334,    0.020,  -36.957, 0.000,   -0.772,   -0.695
+station_destination[Oxford Circus],   -1.7877,    0.006, -276.753, 0.000,   -1.800,   -1.775
+station_destination[Paddington],   -1.4347,    0.008, -184.082, 0.000,   -1.450,   -1.419
+station_destination[Park Royal],   -0.0074,    0.025,   -0.293, 0.769,   -0.057,    0.042
+station_destination[Parsons Green],   -0.7076,    0.019,  -36.798, 0.000,   -0.745,   -0.670
+station_destination[Peckham Rye],    1.0257,    0.031,   33.585, 0.000,    0.966,    1.086
+station_destination[Penge West],    1.7989,    0.082,   22.049, 0.000,    1.639,    1.959
+station_destination[Perivale],    0.3793,    0.043,    8.752, 0.000,    0.294,    0.464
+station_destination[Piccadilly Circus],   -1.5208,    0.009, -166.295, 0.000,   -1.539,   -1.503
+station_destination[Pimlico],   -1.0303,    0.014,  -76.224, 0.000,   -1.057,   -1.004
+station_destination[Pinner],    0.6112,    0.058,   10.449, 0.000,    0.497,    0.726
+station_destination[Plaistow],   -0.2359,    0.031,   -7.647, 0.000,   -0.296,   -0.175
+station_destination[Pontoon Dock],    0.6714,    0.030,   22.521, 0.000,    0.613,    0.730
+station_destination[Poplar],    0.1048,    0.028,    3.781, 0.000,    0.050,    0.159
+station_destination[Preston Road],    0.2367,    0.049,    4.801, 0.000,    0.140,    0.333
+station_destination[Prince Regent],    0.6507,    0.036,   17.890, 0.000,    0.579,    0.722
+station_destination[Pudding Mill Lane],    1.0419,    0.048,   21.656, 0.000,    0.948,    1.136
+station_destination[Putney Bridge],   -0.6107,    0.020,  -30.476, 0.000,   -0.650,   -0.571
+station_destination[Queen's Park],   -0.6659,    0.021,  -30.990, 0.000,   -0.708,   -0.624
+station_destination[Queens Road Peckham],    1.1865,    0.037,   32.465, 0.000,    1.115,    1.258
+station_destination[Queensbury],    0.3732,    0.048,    7.822, 0.000,    0.280,    0.467
+station_destination[Queensway],   -0.6085,    0.023,  -26.401, 0.000,   -0.654,   -0.563
+station_destination[Ravenscourt Park],   -0.5637,    0.023,  -24.542, 0.000,   -0.609,   -0.519
+station_destination[Rayners Lane],    0.2191,    0.048,    4.524, 0.000,    0.124,    0.314
+station_destination[Rectory Road],    1.5568,    0.068,   23.061, 0.000,    1.425,    1.689
+station_destination[Redbridge],    0.5366,    0.071,    7.554, 0.000,    0.397,    0.676
+station_destination[Regent's Park],   -0.8844,    0.017,  -51.114, 0.000,   -0.918,   -0.851
+station_destination[Richmond],   -0.6897,    0.014,  -50.337, 0.000,   -0.717,   -0.663
+station_destination[Rickmansworth],    0.6108,    0.033,   18.697, 0.000,    0.547,    0.675
+station_destination[Roding Valley],    1.5550,    0.109,   14.258, 0.000,    1.341,    1.769
+station_destination[Romford],    1.7240,    0.021,   80.700, 0.000,    1.682,    1.766
+station_destination[Rotherhithe],    0.9912,    0.056,   17.780, 0.000,    0.882,    1.100
+station_destination[Royal Albert],    0.7971,    0.038,   20.873, 0.000,    0.722,    0.872
+station_destination[Royal Oak],   -0.3494,    0.034,  -10.233, 0.000,   -0.416,   -0.282
+station_destination[Royal Victoria],    0.5736,    0.036,   15.864, 0.000,    0.503,    0.644
+station_destination[Ruislip],    0.6944,    0.062,   11.138, 0.000,    0.572,    0.817
+station_destination[Ruislip Gardens],    1.2119,    0.077,   15.668, 0.000,    1.060,    1.364
+station_destination[Ruislip Manor],    0.4907,    0.049,    9.917, 0.000,    0.394,    0.588
+station_destination[Russell Square],   -1.1728,    0.014,  -83.491, 0.000,   -1.200,   -1.145
+station_destination[Seven Kings],    1.9788,    0.042,   46.844, 0.000,    1.896,    2.062
+station_destination[Seven Sisters],   -1.0114,    0.010,  -99.265, 0.000,   -1.031,   -0.991
+station_destination[Shadwell],   -0.4630,    0.012,  -38.990, 0.000,   -0.486,   -0.440
+station_destination[Shenfield],    2.6841,    0.033,   82.042, 0.000,    2.620,    2.748
+station_destination[Shepherd's Bush],   -1.1955,    0.010, -115.402, 0.000,   -1.216,   -1.175
+station_destination[Shepherd's Bush Market],   -0.0847,    0.049,   -1.730, 0.084,   -0.181,    0.011
+station_destination[Shoreditch High Street],    0.2774,    0.012,   23.579, 0.000,    0.254,    0.300
+station_destination[Silver Street],    1.1008,    0.032,   34.018, 0.000,    1.037,    1.164
+station_destination[Sloane Square],   -1.1923,    0.011, -105.739, 0.000,   -1.214,   -1.170
+station_destination[Snaresbrook],    0.2972,    0.044,    6.730, 0.000,    0.211,    0.384
+station_destination[South Acton],    0.9532,    0.032,   29.794, 0.000,    0.891,    1.016
+station_destination[South Ealing],   -0.0073,    0.039,   -0.189, 0.850,   -0.083,    0.068
+station_destination[South Hampstead],    1.7774,    0.065,   27.327, 0.000,    1.650,    1.905
+station_destination[South Harrow],    0.4919,    0.051,    9.683, 0.000,    0.392,    0.592
+station_destination[South Kensington],   -1.3580,    0.009, -157.260, 0.000,   -1.375,   -1.341
+station_destination[South Kenton],    0.7260,    0.062,   11.736, 0.000,    0.605,    0.847
+station_destination[South Quay],    0.0064,    0.015,    0.426, 0.670,   -0.023,    0.036
+station_destination[South Ruislip],    0.8451,    0.059,   14.373, 0.000,    0.730,    0.960
+station_destination[South Tottenham],    1.5209,    0.043,   35.768, 0.000,    1.438,    1.604
+station_destination[South Wimbledon],    0.1220,    0.027,    4.503, 0.000,    0.069,    0.175
+station_destination[South Woodford],    0.0771,    0.036,    2.136, 0.033,    0.006,    0.148
+station_destination[Southbury],    1.6825,    0.043,   39.058, 0.000,    1.598,    1.767
+station_destination[Southfields],   -0.2288,    0.027,   -8.413, 0.000,   -0.282,   -0.175
+station_destination[Southgate],    0.0956,    0.034,    2.828, 0.005,    0.029,    0.162
+station_destination[Southwark],   -1.3047,    0.010, -127.786, 0.000,   -1.325,   -1.285
+station_destination[St James Street],    1.8547,    0.074,   25.179, 0.000,    1.710,    1.999
+station_destination[St. James's Park],   -1.3785,    0.009, -150.469, 0.000,   -1.396,   -1.361
+station_destination[St. John's Wood],   -0.8614,    0.016,  -54.121, 0.000,   -0.893,   -0.830
+station_destination[St. Paul's],   -1.3402,    0.009, -146.889, 0.000,   -1.358,   -1.322
+station_destination[Stamford Brook],   -0.2329,    0.036,   -6.527, 0.000,   -0.303,   -0.163
+station_destination[Stamford Hill],    1.5876,    0.053,   29.820, 0.000,    1.483,    1.692
+station_destination[Stanmore],    0.3018,    0.032,    9.463, 0.000,    0.239,    0.364
+station_destination[Star Lane],    0.6075,    0.031,   19.725, 0.000,    0.547,    0.668
+station_destination[Stepney Green],   -0.6416,    0.023,  -27.817, 0.000,   -0.687,   -0.596
+station_destination[Stockwell],   -0.6275,    0.025,  -25.293, 0.000,   -0.676,   -0.579
+station_destination[Stoke Newington],    1.3005,    0.046,   28.497, 0.000,    1.211,    1.390
+station_destination[Stonebridge Park],   -0.0255,    0.037,   -0.689, 0.491,   -0.098,    0.047
+station_destination[Stratford],   -1.8487,    0.006, -308.221, 0.000,   -1.861,   -1.837
+station_destination[Stratford High Street],    0.9890,    0.036,   27.796, 0.000,    0.919,    1.059
+station_destination[Stratford International],    0.7579,    0.025,   29.817, 0.000,    0.708,    0.808
+station_destination[Sudbury Hill],    0.4930,    0.060,    8.209, 0.000,    0.375,    0.611
+station_destination[Sudbury Town],    0.6410,    0.068,    9.468, 0.000,    0.508,    0.774
+station_destination[Surrey Quays],    0.6242,    0.032,   19.809, 0.000,    0.562,    0.686
+station_destination[Swiss Cottage],   -0.6809,    0.020,  -34.670, 0.000,   -0.719,   -0.642
+station_destination[Sydenham],    1.2572,    0.044,   28.562, 0.000,    1.171,    1.343
+station_destination[Temple],   -1.1762,    0.012,  -95.122, 0.000,   -1.200,   -1.152
+station_destination[Theobalds Grove],    2.2255,    0.074,   30.043, 0.000,    2.080,    2.371
+station_destination[Theydon Bois],    1.5862,    0.101,   15.707, 0.000,    1.388,    1.784
+station_destination[Tooting Bec],   -0.2193,    0.028,   -7.723, 0.000,   -0.275,   -0.164
+station_destination[Tooting Broadway],   -0.5465,    0.015,  -36.512, 0.000,   -0.576,   -0.517
+station_destination[Tottenham Court Road],   -1.5863,    0.008, -197.076, 0.000,   -1.602,   -1.570
+station_destination[Tottenham Hale],   -0.4576,    0.018,  -25.995, 0.000,   -0.492,   -0.423
+station_destination[Totteridge & Whetstone],    0.5944,    0.059,   10.074, 0.000,    0.479,    0.710
+station_destination[Tower Gateway],    0.6114,    0.017,   35.217, 0.000,    0.577,    0.645
+station_destination[Tower Hill],   -1.2179,    0.011, -108.144, 0.000,   -1.240,   -1.196
+station_destination[Tufnell Park],   -0.1826,    0.042,   -4.315, 0.000,   -0.266,   -0.100
+station_destination[Turkey Street],    1.8626,    0.047,   39.894, 0.000,    1.771,    1.954
+station_destination[Turnham Green],   -0.5061,    0.026,  -19.712, 0.000,   -0.556,   -0.456
+station_destination[Turnpike Lane],   -0.2208,    0.032,   -6.960, 0.000,   -0.283,   -0.159
+station_destination[Upminster],    0.4572,    0.030,   15.384, 0.000,    0.399,    0.515
+station_destination[Upminster Bridge],    1.0562,    0.042,   25.188, 0.000,    0.974,    1.138
+station_destination[Upney],    0.4114,    0.045,    9.064, 0.000,    0.322,    0.500
+station_destination[Upper Holloway],    0.9510,    0.033,   28.528, 0.000,    0.886,    1.016
+station_destination[Upton Park],   -0.3441,    0.025,  -13.949, 0.000,   -0.392,   -0.296
+station_destination[Uxbridge],   -0.1314,    0.015,   -8.598, 0.000,   -0.161,   -0.101
+station_destination[Vauxhall],   -1.2343,    0.008, -147.132, 0.000,   -1.251,   -1.218
+station_destination[Victoria],   -1.6064,    0.007, -238.286, 0.000,   -1.620,   -1.593
+station_destination[Walthamstow Central],   -0.6137,    0.014,  -44.246, 0.000,   -0.641,   -0.586
+station_destination[Walthamstow Queens Road],    1.4728,    0.028,   52.468, 0.000,    1.418,    1.528
+station_destination[Wandsworth Road],    1.5664,    0.045,   34.996, 0.000,    1.479,    1.654
+station_destination[Wanstead],    0.3620,    0.049,    7.414, 0.000,    0.266,    0.458
+station_destination[Wanstead Park],    1.6026,    0.049,   32.715, 0.000,    1.507,    1.699
+station_destination[Wapping],    0.6994,    0.031,   22.859, 0.000,    0.639,    0.759
+station_destination[Warren Street],   -1.5099,    0.008, -181.809, 0.000,   -1.526,   -1.494
+station_destination[Warwick Avenue],   -0.4728,    0.029,  -16.213, 0.000,   -0.530,   -0.416
+station_destination[Waterloo],   -1.5782,    0.007, -210.428, 0.000,   -1.593,   -1.563
+station_destination[Watford],    0.7396,    0.032,   22.926, 0.000,    0.676,    0.803
+station_destination[Watford High Street],    1.5565,    0.036,   43.789, 0.000,    1.487,    1.626
+station_destination[Watford Junction],    1.4977,    0.027,   55.406, 0.000,    1.445,    1.551
+station_destination[Wembley Central],   -0.2258,    0.027,   -8.229, 0.000,   -0.280,   -0.172
+station_destination[Wembley Park],   -0.6042,    0.013,  -45.478, 0.000,   -0.630,   -0.578
+station_destination[West Acton],    0.3696,    0.045,    8.170, 0.000,    0.281,    0.458
+station_destination[West Brompton],   -1.1763,    0.013,  -89.009, 0.000,   -1.202,   -1.150
+station_destination[West Croydon],    1.5357,    0.022,   69.491, 0.000,    1.492,    1.579
+station_destination[West Finchley],    0.9348,    0.105,    8.921, 0.000,    0.729,    1.140
+station_destination[West Ham],   -1.0786,    0.014,  -79.098, 0.000,   -1.105,   -1.052
+station_destination[West Hampstead],   -1.0630,    0.013,  -80.421, 0.000,   -1.089,   -1.037
+station_destination[West Harrow],    0.7808,    0.090,    8.628, 0.000,    0.603,    0.958
+station_destination[West India Quay],    0.4763,    0.050,    9.538, 0.000,    0.378,    0.574
+station_destination[West Kensington],   -0.5956,    0.027,  -21.861, 0.000,   -0.649,   -0.542
+station_destination[West Ruislip],    1.2466,    0.072,   17.368, 0.000,    1.106,    1.387
+station_destination[West Silvertown],    0.7493,    0.033,   22.419, 0.000,    0.684,    0.815
+station_destination[Westbourne Park],   -0.5144,    0.027,  -18.894, 0.000,   -0.568,   -0.461
+station_destination[Westferry],    0.2610,    0.028,    9.232, 0.000,    0.206,    0.316
+station_destination[Westminster],   -1.4699,    0.009, -169.656, 0.000,   -1.487,   -1.453
+station_destination[White City],   -0.7252,    0.013,  -55.441, 0.000,   -0.751,   -0.700
+station_destination[White Hart Lane],    1.0289,    0.039,   26.078, 0.000,    0.952,    1.106
+station_destination[Whitechapel],   -1.4787,    0.008, -181.149, 0.000,   -1.495,   -1.463
+station_destination[Willesden Green],   -0.2249,    0.035,   -6.484, 0.000,   -0.293,   -0.157
+station_destination[Willesden Junction],   -0.8214,    0.016,  -52.768, 0.000,   -0.852,   -0.791
+station_destination[Wimbledon],   -0.5001,    0.013,  -39.324, 0.000,   -0.525,   -0.475
+station_destination[Wimbledon Park],    0.2608,    0.041,    6.372, 0.000,    0.181,    0.341
+station_destination[Wood Green],   -0.4112,    0.022,  -19.045, 0.000,   -0.454,   -0.369
+station_destination[Wood Lane],   -0.3840,    0.025,  -15.263, 0.000,   -0.433,   -0.335
+station_destination[Wood Street],    1.4961,    0.050,   30.099, 0.000,    1.399,    1.594
+station_destination[Woodford],    0.1536,    0.038,    4.082, 0.000,    0.080,    0.227
+station_destination[Woodgrange Park],    1.8273,    0.064,   28.445, 0.000,    1.701,    1.953
+station_destination[Woodside Park],    0.2832,    0.037,    7.735, 0.000,    0.211,    0.355
+station_destination[Woolwich Arsenal],    0.8624,    0.015,   57.062, 0.000,    0.833,    0.892
+jobs_log,    1.2391,    0.001, 1166.462, 0.000,    1.237,    1.241
+distance_log,   -0.7212,    0.001, -830.208, 0.000,   -0.723,   -0.719
